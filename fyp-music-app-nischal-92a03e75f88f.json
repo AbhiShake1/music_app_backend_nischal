@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fyp-music-app-nischal",
+  "private_key_id": "92a03e75f88f46ee38a2c658764af485bfed3421",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCco/C/KoDdUsEF\nGo+4FckWFWb/vjhaEtjk6wke/3hKxh4NT8tAxffHAsX9oI+NtCXUXnALGa/PaISG\nzhrmfX9PZvgf+wawIc2oVCajkjsQ3m7QfboAZbMQNexYcz5DFg7T+nY0fMD6oyYw\nM3PF/1ERTjEHtRSyzUzReVCptqZTCF/pR3zjIEX7lkZ77B//uUWpIh3AoKipd0dm\nru7Vr5FW8tarU7JstAJKPGXddn2RBJBUXFsMpewPLEDwTRvwHW8GQMxaYqcs9/W1\nYbilqPgO1aTy0PjFwuom8oIxFpz8lNZiLdui+iPVjo4NB+fy+GnlQFiID6UILQPW\nazM/yaMjAgMBAAECggEAKxP9CB3gzb1N/yDUaJx5Ll0Zc/j013S6eI5Y9lDs3KeK\nqT+KFti68VzGZZ+MCz0BcFu+dZcNXj2QwOAazsuxwP0A/Q6UwsixHftymuaC3vtF\nP4psJmLRsYIa6yJae6mrz0lgy8OJcQSAYp4r10aFnXxDCKsYs6m5WByEfgAQ0uGb\nACj0FN8x7wISOn1sFXIGr8KbBQ806VEIhrwLOwe8kQ5AVWS33WGfAWYFiCj0D+1c\nRW8eh6E09InCYm0oR8eqAHaoM6ZAa8d2t5JznnZuEIl2jBaJZUiL9TPggQZyWYmS\narNFJtZYEhPGhxnbYulmLXWXL+lntBBbTffXsrBbAQKBgQDQTZBisfIqa9YWW2GY\nFnGeoR56GjHVPWkwcnR9x7lo8n0TkPoEAEE6ntcT2r/PzVhEvV3wx//FNeASWrB3\nyldH6Q/CfM5OdyZozvmKR/QbdepBVQoX+czmXfmdLtnf5s7jQIIEri6SfQik6u/W\nQA/kHuRtjF8GWHQNAGbWRKjUIwKBgQDAgfxmDKFPMjSKii3JdLy10DJbuGlbnR2G\nMYQjTXPUn0BqKE4Ak4es2HiEglrreySecVsJrfrrCJ01PHgQVKzlB5QSQz4zQTNt\nkPK4mPMH4//u/TtDZrX8/87SAW951oStaK4M6hti+p/v+ynS7ADGKYEHsFLqpBph\nys0YJkVlAQKBgQCuHOdfV9ZP1ytwLJn7AmeebJaJAXQ+BcLzF/h/Wn6EVoxt2nTg\n+0WKtlKY6fQCwmXRr2fiZ4pHUa0mKl/vAVbLaOgfbSsVM0sLuFWlXFeSzJEuYuK4\n/7hhppOK6yp6mPa9xaHoP5/2GkUrdKVctNeTmq7dUsPrDeyTIY7T8zgbeQKBgQCP\nbspeRr7RwTiAmN/woDgSx2MeD9MAXZon6DDqFMVfAKD/97PWnhWS5V82a+HOXlw0\naYVJOwYfpLVtevaCRHTl2LWsvclUaxokYsFWZS9/C5QfvzIu0BJ8xSSWOFeU0g7d\nHYfBO5TYNKCCMANDknApNbdbwTameUrm3jHd8nX2AQKBgAJrt9s7l34lEOTxyGDx\nS6P99A829HC501xWl2vU7u1XzZVdgJpayQRm1ozrCgX7FmT0uhW2wTgo5cFEvkJ9\n8XTWh5eq+EMJ4AoPvlf2BdldN1/caPOV6zOQU/FBCIc+Lnn+S+I6FQxB9nrFQ3p9\nPk6SAogXxTLTCq+cHlv+IZq1\n-----END PRIVATE KEY-----\n",
+  "client_email": "fyp-music-app-nischal@fyp-music-app-nischal.iam.gserviceaccount.com",
+  "client_id": "103175337510027857726",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fyp-music-app-nischal%40fyp-music-app-nischal.iam.gserviceaccount.com"
+}
