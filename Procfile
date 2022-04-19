@@ -1,1 +1,1 @@
-web: gunicorn djangoProject.wsgi
+web: gunicorn music_app_backend_nischal.wsgi
